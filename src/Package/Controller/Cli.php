@@ -22,8 +22,8 @@ class Cli extends Controller {
     const DIR = __DIR__ . '/';
     const MODULE_INFO = 'Info';
     const INFO = [
-        '{{binary()}} r3m_io/autoload                | Autoload options',
-        '{{binary()}} r3m_io/autoload setup          | Autoload setup',
+        '{{binary()}} difference_fun/autoload                | Autoload options',
+        '{{binary()}} difference_fun/autoload setup          | Autoload setup',
     ];
 
     /**

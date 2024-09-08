@@ -1,9 +1,9 @@
 {
     "name" : "difference_fun/autoload",
-    "description" : "difference_fun/autoload see https://r3m.io for detailed usage",
-    "type" : "library",
-    "keywords" : ["node", "r3m", "library", "framework", "autoload", "r3m.io"],
-    "homepage": "https://r3m.io",
+    "description" : "difference_fun/autoload see https://difference.fun for detailed usage",
+    "type" : "package",
+    "keywords" : ["node", "difference", "fun", "library", "framework", "autoload", "difference.fun"],
+    "homepage": "https://difference.fun",
     "require" : {
         "difference_fun/framework": "*"
     },
