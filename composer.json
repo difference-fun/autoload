@@ -1,0 +1,15 @@
+{
+    "name" : "difference_fun/autoload",
+    "description" : "difference_fun/autoload see https://r3m.io for detailed usage",
+    "type" : "library",
+    "keywords" : ["node", "r3m", "library", "framework", "autoload", "r3m.io"],
+    "homepage": "https://r3m.io",
+    "require" : {
+        "difference_fun/framework": "*"
+    },
+    "license" : "MIT",
+    "authors" : [{
+        "name" : "Remco van der Velde",
+        "email" : "development@universeorange.com"
+    }]
+}
